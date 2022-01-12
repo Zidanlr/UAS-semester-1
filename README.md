@@ -4,7 +4,7 @@ membuat *package* dan modul dengan struktur sesuai yang ada di soal UAS
 
 dan menghasilkan sebagai berikut
 
-<img src="ss/ketentuan.png">
+<img src="ss/1.png">
 
 - ini  syntax daftar_nilai.py
 ```python
